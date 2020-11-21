@@ -1,0 +1,36 @@
+body{
+    background-color: cadetblue;
+}
+
+.nav-item{
+    padding: 0px 40px;
+}
+.padding{
+    padding: 50px;
+}
+
+#quemsomos img{
+    margin: 30px;
+}
+
+h3, h6{
+    color: #FFFFFF;
+}
+
+.col-md-6{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.col-md-6 img{
+    padding-left: 20px;
+}
+
+.maps p{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+.maps iframe{
+    padding-top: 00px;
+}
